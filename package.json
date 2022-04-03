@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-tutorial",
+  "version": "1.0.0",
+  "description": "This repository conatins practicals done while learning mongdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejassinghsital/MongoDB-Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejassinghsital/MongoDB-Tutorial/issues"
+  },
+  "homepage": "https://github.com/tejassinghsital/MongoDB-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9"
+  }
+}
